@@ -7,7 +7,7 @@ code_bloc_prefix: true
 ---
 
 # Description
-OpenID Connect (OIDC) est un protocole permettant l'identification d'un utilisateur pour se connecter à un service. Cette identification passe par un tiers de confiance. Ce protocole est une base moderne du SSO (Single Sign-On)
+OpenID Connect (OIDC) est un protocole permettant l'identification d'un utilisateur pour se connecter à un service. Cette identification passe par un tiers de confiance. Ce protocole est une base moderne du SSO (Single Sign-On).
 OpenID Connect se base sur OAuth 2.0, qui gère l'autorisation, en ajoutant une couche d'identification.
 On distingue alors plusieurs acteurs et jetons lors des échanges réseau, qui sont détaillés plus bas.
 
